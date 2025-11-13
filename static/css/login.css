@@ -7,7 +7,7 @@
 
 body {
   font-family: "Poppins", Arial, sans-serif;
-  background: linear-gradient(135deg, #7ac7e3, #a7d7c5);
+  background: linear-gradient(135deg, #b15adc, #abe2ce);
   min-height: 100vh;
   display: flex;
   justify-content: center;
@@ -33,7 +33,7 @@ main {
 
 .login-section h2 {
   margin-bottom: 20px;
-  color: #333;
+  color: #ca5e8b;
   font-size: 28px;
 }
 
